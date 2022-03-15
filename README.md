@@ -1,2 +1,2 @@
-# Star Citizen price scraper
- Follow the price of Star Citizen Starter Pack
+# Meta Quest price scraper
+ Follow the price of Meta Quest
