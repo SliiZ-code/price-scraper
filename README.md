@@ -1,2 +1,3 @@
-# Meta Quest price scraper
- Follow the price of Meta Quest
+# Price scraper
+
+Follow the price of an object
