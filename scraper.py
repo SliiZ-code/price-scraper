@@ -60,8 +60,6 @@ frame.pack()
 button = Button(frame, text="Démarrer", bg="#00B8FC",
                 fg="#1c1c1c", command=scrap)
 button.pack(pady=25)
-button = Button(frame, text="Rafraichir", bg="#00B8FC",
-                fg="#1c1c1c", command=refresh)
 button.pack(pady=40)
 
 
