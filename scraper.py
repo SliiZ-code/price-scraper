@@ -50,7 +50,7 @@ window.geometry("500x600")
 window.minsize(500, 600)
 window.maxsize(500, 600)
 window.iconbitmap(
-    'C:/Users/sliiz/Documents/Python/price-scraper/Meta-Quest-price-scraper/logo.ico')
+    'C:/Users/sliiz/Documents/Python/price-scraper/logo.ico')
 window.config(background='#1c1c1c')
 titre = Label(window, text="Logitech G29 - Suivi du prix",
               font=("Helvetica", 20), bg="#1c1c1c", fg="WHITE")
